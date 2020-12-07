@@ -14,12 +14,20 @@ h1 {
 	font-size: 2em;
     color: #ffc;
     background-color: #009;
+	margin: 20px;
+	
+
 }
 h2 {
     font-size: 1.5em;
-	background-color: #ccc
-	margin: 20px
-	padding: 40px
+	background-color: #ccc;
+	margin: 20px;
+	padding: 40px;
+	border-style: dashed;
+	border-width: 3px;
+	border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: blue
 }
 a {
     text-decoration: none;
