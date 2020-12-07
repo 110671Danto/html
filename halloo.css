@@ -14,27 +14,51 @@ h1 {
 	font-size: 2em;
     color: #ffc;
     background-color: #009;
-	margin: 20px;
+	margin: 0;
+	margin-bottom: 10px;
+	padding: 5px;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 0.5em;
+    border-bottom-style: solid;
+    border-bottom-width: 0.5em;
+    border-bottom-color: #blue;
 	
 
 }
 h2 {
     font-size: 1.5em;
+	color: white;
 	background-color: #ccc;
 	margin: 20px;
 	padding: 40px;
+	padding-left: 2px;
 	border-style: dashed;
 	border-width: 3px;
 	border-left-width: 10px;
     border-right-width: 10px;
     border-color: blue
 }
+h3 { 
+color: #999;
+font-size: 1.25em;
+}
 a {
     text-decoration: none;
 }
-
+img {
+	border-style: dashed;
+	border-width: 2px;
+	border-color: #ccc;
+}
 strong {
     font-style: italic;
     text-transform: uppercase;
+}
+li {
+	color: #900;
+	font-style: italic;
+}
+table {background-color: #ccc;
 }
 
